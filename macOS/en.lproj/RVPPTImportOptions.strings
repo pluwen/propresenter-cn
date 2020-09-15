@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "Import Text and Graphic Objects as ProPresenter Slide Elements"; ObjectID = "3"; */
+"3.title" = "Import Text and Graphic Objects as ProPresenter Slide Elements";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "4"; */
+"4.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Import Text Objects as ProPresenter Slide Elements"; ObjectID = "5"; */
+"5.title" = "Import Text Objects as ProPresenter Slide Elements";
+
+/* Class = "NSButtonCell"; title = "Import All Slides as JPEG Images"; ObjectID = "6"; */
+"6.title" = "Import All Slides as JPEG Images";
+
+/* Class = "NSPanel"; title = "PowerPoint Import Progress Panel"; ObjectID = "17"; */
+"17.title" = "PowerPoint Import Progress Panel";
+
+/* Class = "NSTextFieldCell"; title = "Importing PowerPoint presentation"; ObjectID = "20"; */
+"20.title" = "Importing PowerPoint presentation";
+
+/* Class = "NSButtonCell"; title = "Stop After This File"; ObjectID = "26"; */
+"26.title" = "Stop After This File";

@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "Web"; ObjectID = "371"; */
+"371.title" = "Web";
+
+/* Class = "NSButtonCell"; title = "Go"; ObjectID = "467"; */
+"467.title" = "Go";
+
+/* Class = "NSButtonCell"; alternateTitle = "Hide"; ObjectID = "485"; */
+"485.alternateTitle" = "隐藏";
+
+/* Class = "NSButtonCell"; title = "Show"; ObjectID = "485"; */
+"485.title" = "显示";

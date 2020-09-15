@@ -1,0 +1,63 @@
+VIDEOIMAGE=Video/Image;
+BEHAVIOR=Behavior;
+PATH=Path;
+TYPE=Type;
+ORIGINALLENGTH=Original Length;
+PRODUCER=Producer;
+CREATED=Created;
+
+FILEEXPLORER=Reveal in File Explorer;
+MEDIAPROPERTY=Media Properties;
+
+NEWHOTFOLDER=New Smart Playlist;
+
+ADDTAG=Add Tag ;
+REMOVETAG=Remove Tag ;
+ADDCUSTOMTAG=Add Custom Tag...;
+
+SORTBYTYPE=Type;
+SORTBTYLAYER=Layer;
+SORTBYNAME=Name;
+SORTBYTRANSITION=Transition;
+SORTBYPATH=Path;
+SORTBYKIND=Kind;
+SORTBYDURATION=Duration;
+SORTBYFORMAT=Format;
+SORTBYORIGINALLENGTH=Original Length;
+SORTBYPRODUCER=Producer;
+SORTBYARTIST=Artist;
+SORTBYRECENTLYADDED=Recently Added;
+
+BLUEDOMINANT=Blue Dominant;
+NATURE=Nature;
+HIGHENERGY=High Energy;
+SUBTLE=Subtle;
+DELETECUE_TITLE=Are you sure you want to delete the selected Media Cues?;
+DELETECUE_CUESONLY="Delete Cues" will remove from ProPresenter only.;
+DELETECUE_MESSAGE="Delete Cues" will remove from ProPresenter only. "Move to trash" will delete cues from all ProPresenter playlists and delete the file from the hard drive.;
+MOVETOTRASH=Move to Trash;
+DELETECUES=Delete Cues;
+
+LOOP=Loop;
+SOFTLOOP=Soft Loop;
+
+CANCEL=Cancel;
+TAGS=Tags;
+
+BACKGROUNDACTION=Background;
+FOREGROUNDACTION=Foreground;
+SCALING=Scaling;
+PLAYBACK=Playback;
+NEXTCUE=Next Cue;
+
+DOWNLOADS=Downloads;
+VIDEOINPUT=Video Input;
+FROMEXPLORER=From Explorer;
+FROMVIDEOINPUT=From Video Input;
+CLEANUPBY=Clean Up By;
+NEWFOLDER=New Playlist Folder;
+SETOCURRENTFRAME=Set to Current Frame;
+REMOVEALLDOWNLOADS=Remove All Downloads;
+
+LAYER=Layer;
+THUMBNAIL=Thumbnail;

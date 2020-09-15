@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Q3C-Mk-Gg2"; */
+"Q3C-Mk-Gg2.title" = "Table View Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add plan as playlist"; ObjectID = "g7g-Au-hWV"; */
+"g7g-Au-hWV.ibShadowedToolTip" = "添加计划作为播放列表";
+
+/* Class = "NSWindow"; title = "Select a Plan"; ObjectID = "kcY-cn-22h"; */
+"kcY-cn-22h.title" = "选择一个计划";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lUi-c2-anF"; */
+"lUi-c2-anF.title" = "Text Cell";

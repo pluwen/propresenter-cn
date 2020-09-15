@@ -1,0 +1,34 @@
+LIBRARY=Library;
+ADDNEWLIBRARY=New Library;
+ENTERLIBRARYNAME=Enter new library name;
+SELECTLIBRARY=Select a library;
+FILTER=Filter;
+ALL=All;
+ADDTO=Add to;
+MOVETO=Move to;
+SHOWDETAILEDROWS=Show Detailed Rows;
+INCLUDESONGSELECT=Include SongSelect results in search;
+EXPORTPROBUNDLE=Export as Bundle...;
+EXPORTIMAGESLIDE=Export as Images...;
+ARRANGEMENT=Arrangement;
+REFLOW=Reflow;
+
+PRESENTATIONNAMEEXISTS=The name "{0}" is already taken. Please use another name;
+PRESENTATIONNAMELENGTHERROR=The specific name "{0}" is too long. Please use another name;
+PRESENTATIONNAMEINCLUDESINVALIDCHARERROR=A file name can't contain any of the following characters: {0};
+PRESENTATIONNAMEINCLUDESRESERVEDNAMEERROR=A file name includes a system reserved word(s) as follows: {0}. Please use another name.;
+PRESENTATIONNAMENULLERROR=A file name can't be null;
+
+SEARCHFIELD_MATCHEDBY=Matched by:;
+SEARCHFIELD_CONTENT=Content;
+SEARCHFIELD_NAME=Name;
+SEARCHFIELD_NOTES=Notes;
+SEARCHFIELD_TITLE=Title;
+SEARCHFIELD_ARTIST=Artist;
+SEARCHFIELD_AUTHOR=Author;
+SEARCHFIELD_COPYRIGHT=Copyright;
+SEARCHFIELD_PUBLISHER=Publisher;
+SEARCHFIELD_SONGNUMBER=Song Number;
+
+NOPRESENTATIONSELECTEDWARNING=No presentation selected;
+UPDATESAVAILABLE=Updates Available;

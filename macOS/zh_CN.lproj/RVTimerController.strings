@@ -1,0 +1,27 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "If this is unchecked in Continguous mode, and this slide is the last one in the presentation, the go to next will trigger the first slide in the next presentation."; ObjectID = "2cN-Wg-Kvm"; */
+"2cN-Wg-Kvm.ibShadowedToolTip" = "如果在 Continguous 模式下没有选中，而这张幻灯片是演示文稿中的最后一张，那么转到下一张将触发下一张演示文稿中的第一张幻灯片。";
+
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "El8-hu-r5s"; */
+"El8-hu-r5s.title" = "持续时间";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Khm-io-pDf"; */
+"Khm-io-pDf.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Loop to Beginning"; ObjectID = "bi5-2i-U5n"; */
+"bi5-2i-U5n.title" = "循环到起点";
+
+/* Class = "NSTextFieldCell"; title = "5s"; ObjectID = "f7C-J5-N3q"; */
+"f7C-J5-N3q.title" = "5s";
+
+/* Class = "NSTextFieldCell"; title = "If the slide has a foreground video, the last frame will be displayed for this amount of time."; ObjectID = "iRE-9l-ZCO"; */
+"iRE-9l-ZCO.title" = "如果幻灯片有前景视频，那么最后一帧将在这个时间段内显示。";
+
+/* Class = "NSTextFieldCell"; title = "Set the amount of time, in seconds, that this slide will be displayed on screen."; ObjectID = "jWG-ck-aiS"; */
+"jWG-ck-aiS.title" = "设置此幻灯片在屏幕上显示的时间，单位为秒。";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "l5Z-SE-QQk"; */
+"l5Z-SE-QQk.title" = "完成";
+
+/* Class = "NSWindow"; title = "Slide Timer"; ObjectID = "lMi-yG-z0s"; */
+"lMi-yG-z0s.title" = "幻灯片计时器";

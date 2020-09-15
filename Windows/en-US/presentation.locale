@@ -1,0 +1,64 @@
+﻿REMOVEALL=Remove All;
+NOGROUPNAME=No Group Name;
+
+SLIDESBYGROUP=Slides By Group;
+CUEBACKGROUNDCOLOR=Cue Background Color;
+TABLEBACKGROUNDCOLOR=Table Background Color;
+BACKGROUNDCOLOR_DESC=Drawn as a slide background color in the preview thumbnail;
+TRUNCATE=Truncate;
+
+TITLE=Title;
+ARTIST=Artist;
+AUTHOR=Author;
+PUBLISHER=Publisher;
+DISPLAYCOPYRIGHT=Display Copyright;
+SONGNUM=CCLI #;
+COPYRIGHTYEAR=‎Year;
+NOTES=Notes;
+TODAY=Today;
+YESTERDAY=Yesterday;
+SELECTPAGE=Select a Page;
+OPERATORNOTE=Operator Notes;
+
+MASTER=Master;
+NEWARRANGEMENT=New Arrangement;
+ARRANGEMENTMANAGER=Arrangement Manager;
+SELECTARRANGEMENT=Select an Arrangement;
+NOGROUPSPRESENT=No Groups Present;
+GROUPS=Groups;
+
+AUDIOTRACK=Audio Track;
+ZOOMTIMELINE=Zoom Timeline;
+
+OUTLINE=Outline;
+APPLYTOALL=Apply to All;
+ANGLE=Angle;
+LENGTH=Length;
+RADIUS=Radius;
+OUTLINESETTING=Outline;
+STROKE=Stroke;
+
+HOTKEY_ENTERHOTKEY=Enter Hot Key to trigger slide;
+HOTKEY_VALIDCHARACTERS=(Valid characters: A-Z);
+
+IMPORTING=Importing "{0}";
+EXPORTING=Exporting "{0}";
+CONVERTING=Converting "{0}";
+MIGRATING=Migrating "{0}";
+IMPORTINGDOCUMENTS=Importing Presentations;
+EXPORTINGDOCUMENTS=Exporting Presentations;
+PROPRESENTEREXPORT=ProPresenter Export;
+
+PRESENTATION=Presentation;
+SONG=Song;
+POWERPOINT=PowerPoint;
+ADDAUDIOTRACK=Add Audio Track;
+REMOVEAUDIOTRACK=Remove Audio Track;
+REPLACEAUDIOTRACK=Replace Audio Track;
+CUE=Cue;
+
+SIZEMISMATCH=Presentation size does not match the resolution of any configured screens;
+
+NOSLIDESHOW=No Slide Show;
+SLIDESHOW=Slide Show;
+ENTERCUSTOMDURATION=Enter a custom duration for each slide;

@@ -1,0 +1,33 @@
+STAGEDISPLAY=Stage Display;
+CURRENTSLIDE=Current Slide;
+CURRENTSLIDENOTE=Current Slide Notes;
+NEXTSLIDE=Next Slide;
+NEXTSLIDENOTE=Next Slide Notes;
+SCREENPREVIEW=Screen Preview;
+SYSTEMCLOCK=System Clock;
+VIDEOCOUNTDOWN=Video Countdown;
+PLANNINGCENTERLIVE=Planning Center Live;
+PCO=Planning Center Online;
+STAGELAYOUT=Stage Layout;
+NOPLANSELECTED=No plan has been selected. Please choose a plan to use this feature.;
+TIMERS=Timers;
+
+EDITLAYOUTS=Edit Layouts;
+STAGEDISPLAYMESSAGE=Stage Display Message;
+SENDMESSAGE=Send Message;
+STAGELAYOUTS=Stage Layouts;
+STAGEEDITOR=Stage Editor;
+CHANGEDESTINATION=Change Slide Destination;
+STAGEONLY=Stage Only;
+STAGEANDAUDIENCE=Stage + Audience;
+NOSTAGESCREENSWARNING=No Stage Screen Configured;
+NOSTAGEACTION=No Action;
+
+STRIPLEADINGZEROS_SHOWALLZEROS=Show All Zeros;
+STRIPLEADINGZEROS_REMOVEHOURZEROS=Remove Hour Zeros;
+STRIPLEADINGZEROS_REMOVEMINUTEZEROS=Remove Minute Zeros;
+STRIPLEADINGZEROS_REMOVESECONDZEROS=Remove Second Zeros;
+
+MODE_TEXTONLY=Text;
+MODE_PREVIEWIMAGE=Preview Image;
+MODE_NOTES=Notes;

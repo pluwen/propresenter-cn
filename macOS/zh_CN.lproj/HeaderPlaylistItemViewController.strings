@@ -1,0 +1,33 @@
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "6p8-P3-PqK"; */
+"6p8-P3-PqK.title" = "项目 2";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "78k-c4-aZz"; */
+"78k-c4-aZz.title" = "名称";
+
+/* Class = "NSButtonCell"; title = "Trigger"; ObjectID = "7Cb-kq-ufE"; */
+"7Cb-kq-ufE.title" = "触发器";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "7J1-Jg-Wha"; */
+"7J1-Jg-Wha.title" = "项目 1";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8ja-q9-Ke4"; */
+"8ja-q9-Ke4.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "--:--:--"; ObjectID = "Jgi-sS-i8h"; */
+"Jgi-sS-i8h.title" = "--:--:--";
+
+/* Class = "NSMenuItem"; title = "Assign a timer..."; ObjectID = "VqH-OA-Cq2"; */
+"VqH-OA-Cq2.title" = "指定一个定时器…";
+
+/* Class = "NSTextFieldCell"; title = "Color"; ObjectID = "eUq-Q1-K0Z"; */
+"eUq-Q1-K0Z.title" = "颜色：";
+
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "oEZ-6x-TPw"; */
+"oEZ-6x-TPw.title" = "持续时间：";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "q4F-pl-7iO"; */
+"q4F-pl-7iO.title" = "名称";
+
+/* Class = "NSTextFieldCell"; placeholderString = "--:--:--"; ObjectID = "qCb-2b-wXL"; */
+"qCb-2b-wXL.placeholderString" = "--:--:--";

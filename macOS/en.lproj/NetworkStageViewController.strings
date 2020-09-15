@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "6bY-eu-1ao"; */
+"6bY-eu-1ao.title" = "Port:";
+
+/* Class = "NSButtonCell"; title = "Enable Stage App"; ObjectID = "SPl-g9-4Ei"; */
+"SPl-g9-4Ei.title" = "Enable Stage App";
+
+/* Class = "NSTextFieldCell"; title = "Control"; ObjectID = "aY8-Pt-nCo"; */
+"aY8-Pt-nCo.title" = "Control";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "rKr-wj-wSi"; */
+"rKr-wj-wSi.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "zjx-3b-Qje"; */
+"zjx-3b-Qje.title" = "Password:";

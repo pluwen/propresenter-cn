@@ -1,0 +1,60 @@
+
+/* Class = "NSSegmentedCell"; 1456.ibShadowedToolTips[0] = "Grid View"; ObjectID = "1456"; */
+"1456.ibShadowedToolTips[0]" = "网格视图;
+
+/* Class = "NSSegmentedCell"; 1456.ibShadowedToolTips[1] = "Table View"; ObjectID = "1456"; */
+"1456.ibShadowedToolTips[1]" = "表格视图";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1538"; */
+"1538.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Save as Document"; ObjectID = "1540"; */
+"1540.title" = "另存为文档";
+
+/* Class = "NSMenuItem"; title = "Copy to Current Document"; ObjectID = "1541"; */
+"1541.title" = "复制到当前文档";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add next verse"; ObjectID = "1544"; */
+"1544.ibShadowedToolTip" = "添加下一段经文";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add previous verse"; ObjectID = "1545"; */
+"1545.ibShadowedToolTip" = "添加上一段经文";
+
+/* Class = "NSButtonCell"; title = "Verse"; ObjectID = "1546"; */
+"1546.title" = "经文";
+
+/* Class = "NSButtonCell"; title = "Verse"; ObjectID = "1547"; */
+"1547.title" = "经文";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "9H9-K0-Qde"; */
+"9H9-K0-Qde.title" = "项目 3";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Fm4-Ca-Snh"; */
+"Fm4-Ca-Snh.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Scripture Lookup"; ObjectID = "Kbn-wE-XYg"; */
+"Kbn-wE-XYg.placeholderString" = "经文查找";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "XUK-FR-8rB"; */
+"XUK-FR-8rB.title" = "项目 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ZGP-Yv-BYK"; */
+"ZGP-Yv-BYK.title" = "项目 2";
+
+/* Class = "NSMenuItem"; title = "Save to Selected Playlist"; ObjectID = "a5t-VK-FsZ"; */
+"a5t-VK-FsZ.title" = "保存到所选的播放列表";
+
+/* Class = "NSTextFieldCell"; title = "Loading..."; ObjectID = "cNC-LF-8Yb"; */
+"cNC-LF-8Yb.title" = "加载中…";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "fEE-Sz-Coh"; */
+"fEE-Sz-Coh.title" = "项目 1";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "lI9-zO-41I"; */
+"lI9-zO-41I.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "rGp-i7-du7"; */
+"rGp-i7-du7.title" = "项目 3";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "u6i-H6-eEI"; */
+"u6i-H6-eEI.placeholderString" = "搜索";

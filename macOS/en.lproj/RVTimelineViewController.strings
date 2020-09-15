@@ -1,0 +1,132 @@
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Shift Cues by Offset Value"; ObjectID = "138"; */
+"138.ibShadowedToolTip" = "Shift Cues by Offset Value";
+
+/* Class = "NSTextFieldCell"; title = "Offset:"; ObjectID = "141"; */
+"141.title" = "Offset:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Play Timeline"; ObjectID = "147"; */
+"147.ibShadowedToolTip" = "Play Timeline";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Rewind Timeline"; ObjectID = "152"; */
+"152.ibShadowedToolTip" = "Rewind Timeline";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Label"; ObjectID = "179"; */
+"179.placeholderString" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "183"; */
+"183.title" = "Label:";
+
+/* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "187"; */
+"187.title" = "Time:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Time"; ObjectID = "188"; */
+"188.placeholderString" = "Time";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00:00"; ObjectID = "188"; */
+"188.title" = "00:00:00:00";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Loop Timeline"; ObjectID = "191"; */
+"191.ibShadowedToolTip" = "Loop Timeline";
+
+/* Class = "NSButtonCell"; title = "Edit Properties"; ObjectID = "211"; */
+"211.title" = "Edit Properties";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Zoom Timeline"; ObjectID = "299"; */
+"299.ibShadowedToolTip" = "Zoom Timeline";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Timeline Duration"; ObjectID = "336"; */
+"336.ibShadowedToolTip" = "Timeline Duration";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "340"; */
+"340.title" = "Duration:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Record Cues"; ObjectID = "342"; */
+"342.ibShadowedToolTip" = "Record Cues";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Modify Playback Rate"; ObjectID = "484"; */
+"484.ibShadowedToolTip" = "Modify Playback Rate";
+
+/* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "487"; */
+"487.title" = "Rate:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "523"; */
+"523.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Remove All"; ObjectID = "524"; */
+"524.title" = "Remove All";
+
+/* Class = "NSMenuItem"; title = "Slide Show"; ObjectID = "526"; */
+"526.title" = "Slide Show";
+
+/* Class = "NSMenuItem"; title = "30"; ObjectID = "527"; */
+"527.title" = "30";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "528"; */
+"528.title" = "20";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "529"; */
+"529.title" = "10";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "530"; */
+"530.title" = "5";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "531"; */
+"531.title" = "4";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "532"; */
+"532.title" = "3";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "533"; */
+"533.title" = "2";
+
+/* Class = "NSMenuItem"; title = "1 Sec"; ObjectID = "534"; */
+"534.title" = "1 Sec";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "536"; */
+"536.title" = "Box";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Audio Tracks for Timeline"; ObjectID = "546"; */
+"546.ibShadowedToolTip" = "Audio Tracks for Timeline";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "548"; */
+"548.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Remove Current Track"; ObjectID = "550"; */
+"550.title" = "Remove Current Track";
+
+/* Class = "NSMenuItem"; title = "Add New Track"; ObjectID = "551"; */
+"551.title" = "Add New Track";
+
+/* Class = "NSMenuItem"; title = "Audio Track"; ObjectID = "552"; */
+"552.title" = "Audio Track";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "8BL-we-sc7"; */
+"8BL-we-sc7.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OUr-E6-dVI"; */
+"OUr-E6-dVI.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Plo-2b-Scz"; */
+"Plo-2b-Scz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "1x"; ObjectID = "UKs-PL-W0i"; */
+"UKs-PL-W0i.title" = "1x";
+
+/* Class = "NSTableColumn"; headerCell.title = "Word"; ObjectID = "b8q-fV-ZRz"; */
+"b8q-fV-ZRz.headerCell.title" = "Word";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "%{value1}@x"; ObjectID = "fS2-uY-aci"; */
+"fS2-uY-aci.ibShadowedDisplayPattern" = "%{value1}@x";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fTK-Ja-61B"; */
+"fTK-Ja-61B.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "hWt-sZ-ory"; */
+"hWt-sZ-ory.title" = "Done";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "iAL-Av-mCI"; */
+"iAL-Av-mCI.headerCell.title" = "Time";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "t3b-Ub-Ucv"; */
+"t3b-Ub-Ucv.title" = "Done";

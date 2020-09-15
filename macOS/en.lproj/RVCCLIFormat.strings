@@ -1,0 +1,60 @@
+
+/* Class = "NSTextFieldCell"; title = "Copyright Format"; ObjectID = "17"; */
+"17.title" = "Copyright Format";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "75"; */
+"75.title" = "Done";
+
+/* Class = "NSPanel"; title = "Window"; ObjectID = "76"; */
+"76.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Edit Template"; ObjectID = "85"; */
+"85.title" = "Edit Template";
+
+/* Class = "NSWindow"; title = "CCLI Reporting"; ObjectID = "89"; */
+"89.title" = "CCLI Reporting";
+
+/* Class = "NSTableColumn"; headerCell.title = "Created"; ObjectID = "97"; */
+"97.headerCell.title" = "Created";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "98"; */
+"98.headerCell.title" = "Title";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "99"; */
+"99.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100"; */
+"100.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Export"; ObjectID = "102"; */
+"102.title" = "Export";
+
+/* Class = "NSTableColumn"; headerCell.title = "Author"; ObjectID = "103"; */
+"103.headerCell.title" = "Author";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "104"; */
+"104.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Publisher"; ObjectID = "105"; */
+"105.headerCell.title" = "Publisher";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "106"; */
+"106.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Copyright"; ObjectID = "107"; */
+"107.headerCell.title" = "Copyright";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "108"; */
+"108.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "CCLI #"; ObjectID = "109"; */
+"109.headerCell.title" = "CCLI #";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "110"; */
+"110.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "126"; */
+"126.title" = "Reset";
+
+/* Class = "NSTextFieldCell"; title = "Available Tokens"; ObjectID = "avz-1d-7Fv"; */
+"avz-1d-7Fv.title" = "Available Tokens";

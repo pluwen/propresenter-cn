@@ -1,0 +1,32 @@
+INSTRUCTION=Drag Action To Slide In Presentation;
+CLEARACTIONS=Clear Actions;
+MEDIAACTIONS=Media Actions;
+INTERACTIVEACTIONS=Interactive Actions;
+ADVANCEDACTIONS=Advanced Actions;
+SELECTMESSAGE=Select a Message;
+SELECTPROP=Select a Prop;
+SOCIALMEDIAOPTIONS=Social Media Options;
+PLAYLENGTHOFGTNT=Play Approved Items for Length of Go To Next Timer;
+PLAYSPECIFICTIME=Play Approved Items for Specified Time;
+TIMERCUEACTION_START=Start;
+TIMERCUEACTION_STOP=Stop;
+TIMERCUEACTION_RESET=Reset;
+TIMERCUEACTION_RESETSTART=Reset and Start;
+
+GOTONEXTTIMER_SLIDETIMER=Slide Timer;
+GOTONEXTTIMER_LOOPTOBEGINNING=Loop to Beginning;
+GOTONEXTTIMER_INSTRUCTION=Set the amount of time, in seconds, that this slide will be displayed on the screen.;
+GOTONEXTTIMER_FOREGROUNDVIDEO=If the slide has a foreground video, the last frame will be displayed for this amount of time.;
+
+COMMAND=Command;
+CHANNEL=Channel;
+NOTE=Note;
+MIDICOMMAND_NOTEON=MIDI Note On;
+MIDICOMMAND_NOTEOFF=MIDI Note Off;
+
+GRAPHIC=Graphic;
+AUDIO=Audio;
+LIVEVIDEO=Live Video;
+
+SETCONFIGURATION=Set Configuration;
+OPENTIMERS=Open Timers;

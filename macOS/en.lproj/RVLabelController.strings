@@ -1,0 +1,21 @@
+
+/* Class = "NSWindow"; title = "Label"; ObjectID = "1"; */
+"1.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "5tg-PW-7wu"; */
+"5tg-PW-7wu.title" = "Color:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8gU-za-SF5"; */
+"8gU-za-SF5.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Dkc-td-cGS"; */
+"Dkc-td-cGS.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "XGo-oz-iEJ"; */
+"XGo-oz-iEJ.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "d4v-2t-XLi"; */
+"d4v-2t-XLi.title" = "Label:";
+
+/* Class = "NSButtonCell"; title = "Save Label"; ObjectID = "lLc-9u-zTg"; */
+"lLc-9u-zTg.title" = "Save Label";

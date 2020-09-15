@@ -1,0 +1,11 @@
+TELESTRATOR=Telestrator;
+PEN=Pen;
+CIRCLE=Circle;
+SPOTLIGHT=Spotlight;
+LASER=Laser;
+PENSIZE=Pen Size;
+CIRCLESIZE=Circle Size;
+SPOTLIGHTSIZE=Spotlight Size;
+LASERSIZE=Laser Size;
+CLEARDRAWING=Clear Drawing;
+CLEARONSLIDECHANGE=Clear on slide change;

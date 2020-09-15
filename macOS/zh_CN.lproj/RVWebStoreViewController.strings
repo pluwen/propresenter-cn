@@ -1,0 +1,12 @@
+
+/* Class = "NSPanel"; title = "Downloads"; ObjectID = "53"; */
+"53.title" = "下载";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "60"; */
+"60.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "3ql-oE-5rR"; */
+"3ql-oE-5rR.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Show on Startup"; ObjectID = "F0D-76-jNZ"; */
+"F0D-76-jNZ.title" = "启动时显示";

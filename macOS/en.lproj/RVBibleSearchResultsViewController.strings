@@ -1,0 +1,18 @@
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Fe8-y8-WfV"; */
+"Fe8-y8-WfV.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Chapter"; ObjectID = "Hu3-qb-JLU"; */
+"Hu3-qb-JLU.title" = "Chapter";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ljl-Am-H5r"; */
+"Ljl-Am-H5r.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "VzJ-eW-qD6"; */
+"VzJ-eW-qD6.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Verse"; ObjectID = "mgm-4L-W7z"; */
+"mgm-4L-W7z.title" = "Verse";
+
+/* Class = "NSButtonCell"; title = "More..."; ObjectID = "zzR-kh-AxW"; */
+"zzR-kh-AxW.title" = "More...";

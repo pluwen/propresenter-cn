@@ -1,0 +1,12 @@
+
+/* Class = "NSButtonCell"; title = "Add New Version"; ObjectID = "16"; */
+"16.title" = "Add New Version";
+
+/* Class = "NSButtonCell"; title = "Apply to All"; ObjectID = "17"; */
+"17.title" = "Apply to All";
+
+/* Class = "NSButtonCell"; title = "Write Over"; ObjectID = "18"; */
+"18.title" = "Write Over";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "19"; */
+"19.title" = "Skip";

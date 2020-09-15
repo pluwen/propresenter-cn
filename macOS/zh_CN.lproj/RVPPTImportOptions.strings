@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "Import Text and Graphic Objects as ProPresenter Slide Elements"; ObjectID = "3"; */
+"3.title" = "导入文本和图形对象作为 ProPresenter 幻灯片元素";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "4"; */
+"4.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Import Text Objects as ProPresenter Slide Elements"; ObjectID = "5"; */
+"5.title" = "导入文本对象作为 ProPresenter 幻灯片元素";
+
+/* Class = "NSButtonCell"; title = "Import All Slides as JPEG Images"; ObjectID = "6"; */
+"6.title" = "将所有幻灯片导入为 JPEG 图像";
+
+/* Class = "NSPanel"; title = "PowerPoint Import Progress Panel"; ObjectID = "17"; */
+"17.title" = "PowerPoint 导入进度面板";
+
+/* Class = "NSTextFieldCell"; title = "Importing PowerPoint presentation"; ObjectID = "20"; */
+"20.title" = "正在导入 PowerPoint 演示文稿";
+
+/* Class = "NSButtonCell"; title = "Stop After This File"; ObjectID = "26"; */
+"26.title" = "在这个文件之后停止";

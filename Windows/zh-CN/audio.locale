@@ -1,0 +1,10 @@
+AUDIOCHANNEL=Audio Channel;
+PROCHANNEL=Pro Channel;
+MAPPING=Mapping;
+AUTO=Auto;
+CLEAR=Clear;
+MUTE=Mute;
+SOLO=Solo;
+TESTTONE=Test Tone;
+MUTE_ALL=Mute All;
+CLEAR_SOLO=Clear Solo;

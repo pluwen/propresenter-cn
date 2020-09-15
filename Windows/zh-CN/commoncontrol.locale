@@ -1,0 +1,327 @@
+﻿TRANSITION=Transition;
+TRANSITIONS=Transitions;
+TRANSITION_DURATION=Duration;
+TRANSITION_RESETTODEFAULTPARAM=Reset to Default Parameters;
+TRANSITION_FAVORITETOOLTIP1=Add this transition to your favorites?;
+TRANSITION_FAVORITETOOLTIP2=Remove or update this favorite Transition?;
+
+TRANSITION_USEPRESENTATIONTRANSITION=Use Presentation Transition;
+TRANSITION_USEDOCUMENTTRANSITION=Use Presentation Transition;
+TRANSITION_USEMEDIALIBRARYTRANSITION=Use Media Library Transition;
+
+TRANSITION_NORESULTS=No Results;
+TRANSITION_NOFAVORITE=No Favorite Transitions;
+TRANSITION_FAVORITEINSTRUCT=Click the star to favorite a transition;
+TRANSITION_NORECENT=No Recent Transitions;
+TRANSITION_SEARCHFORTRANSITIONS=Search for Transitions;
+TRANSITION_FAVORITES=Favorites;
+TRANSITION_RECENT=Recents;
+TRANSITION_ALL=All;
+TRANSITION_CLEAR=Clear;
+
+WIDTH=Width;
+HEIGHT=Height;
+
+RENAME=Rename;
+DELETE=Delete;
+NEW=New;
+SIZE=Size;
+
+OK=OK;
+CANCEL=Cancel;
+CLOSE=Close;
+STOP=Stop;
+START=Start;
+SUBMIT=Submit;
+CONTINUE=Continue;
+
+ACCEPT=Accept;
+CLEAR=Clear;
+
+FILEEXISTSRESULT_USEEXISTING=Use Existing;
+FILEEXISTSRESULT_ADDNEWVERSION=Add New Version;
+FILEEXISTSRESULT_WRITEOVER=Write Over;
+FILEEXISTSRESULT_SKIP=Skip;
+APPLYTOALL=Apply to All;
+FILEEXISTMESSAGE="{0}" already exists in the {1}. Do you want to replace it with the one you're moving?;
+
+FILEEXISTHEADER=File Exists;
+MEDIAFOLDER=Renewed Vision Media Folder;
+LIBRARYFOLDER=Library;
+BACKGROUND=Background;
+PURCHASED=Purchased;
+
+DEFAULT=Default;
+
+QUITPROPRESENTER=Are you sure you want to quit ProPresenter?;
+
+ERROR=Error;
+PATHALREADYEXIST=Path already exists.;
+
+DOWNLOADING=Downloading;
+UPLOADING=Uploading;
+UPDATINGPCO=Updating PCO Plan;
+
+DEVICESELECTION_DISABLEDDEVICE=-Disabled-;
+
+GO=Go;
+SHOW=Show;
+HIDE=Hide;
+NEWGROUP=New Group;
+NEWPLAYLIST=New Playlist;
+
+COLORNAME_NONE=None;
+COLORNAME_BLACK=Black;
+COLORNAME_BLUE=Blue;
+COLORNAME_BROWN=Brown;
+COLORNAME_CYAN=Cyan;
+COLORNAME_GREEN=Green;
+COLORNAME_MAGENTA=Magenta;
+COLORNAME_ORANGE=Orange;
+COLORNAME_PURPLE=Purple;
+COLORNAME_RED=Red;
+COLORNAME_YELLOW=Yellow;
+COLORNAME_WHITE=White;
+
+IMPORTPROGRESS=Imported {0} of {1};
+
+CONFIRMDELETE=Confirm Delete;
+DELETECONFIRMATIONMESSAGE_ONEFILE=Are you sure you want to send {0} to the Recycle Bin?;
+DELETECONFIRMATIONMESSAGE_MULTIPLEFILES=Are you sure you want to send {0} files to the Recycle Bin?;
+DELETECONFIRMATIONMESSAGE_LIBRARY=Are you sure you want to remove all selected libraries?;
+DELETECONFIRMATIONMESSAGE_PRESENTATION=Are you sure you want to remove all selected library presentations?;
+DELETECONFIRMATIONMESSAGE_THEME=Are you sure you want to remove theme named "{0}"?;
+DELETECANNOTUNDO=This action cannot be undone.;
+
+LOGIN=Login;
+LOGOUT=Logout;
+
+SAVE=Save;
+SAVEAS=Save As;
+REMOVE=Remove;
+DONE=Done;
+FILE=File;
+QUIT=Quit;
+WARNING=Warning;
+
+COPY=Copy;
+PASTE=Paste;
+CUT=Cut;
+EDIT=Edit;
+DUPLICATE=Duplicate;
+CHANGECOLOR=Change Color;
+SAVELABEL=Save Label;
+
+ENABLE=Enable;
+DISABLE=Disable;
+DISABLED=Disabled;
+CONFIGURE=Configure;
+
+WEB=Web;
+LOCK=Lock;
+UNLOCK=Unlock;
+
+TEMPLATE=Theme;
+TEXT=Text;
+THEME=Theme;
+STYLE=Style;
+NAME=Name;
+NONE=None;
+
+SCALING=Scaling;
+IMAGE=Image;
+VIDEO=Video;
+AUDIO=Audio;
+BACKGROUND=Background;
+FOREGROUND=Foreground;
+
+SETTINGS=Settings;
+CONNECT=Connect;
+DISCONNECT=Disconnect;
+
+SCREENSIZES=Screen Sizes;
+COMMONSIZES=Common Sizes;
+UNCONFIGUREDSIZEWARNING=Selected size does not match any of the configured screens;
+RESIZEALLSLIDES=Resize all slides in the presentation;
+RESIZE=Resize;
+RESIZEMASK=Resize Mask;
+RESIZESTAGELAYOUT=Resize Stage Layout;
+SELECTSIZE=Select a slide size:;
+CUSTOMSIZE=Custom Size;
+ENTERCUSTOMSIZE=Enter a width and height for the slide.;
+BLANKLAYOUT=Blank Layout;
+
+ITEM=Item;
+ITEMS=Items;
+NEWGROUPFOLDER=New Playlist Folder;
+OPENFILELOCATION=Open File Location;
+REMOVEFROMPLAYLIST=Remove from Playlist;
+SEARCHHELPERTEXT=Search;
+COPYRIGHT=Copyright;
+INSTALLED=Installed;
+INSTALL=Install;
+DURATION=Duration;
+INTENSITY=Intensity;
+AUDIO_CHANNELROUTING=Channel Routing;
+PREVIEW=Preview;
+FORMAT=Format;
+FONT=Font;
+ALIGNMENT=Alignment;
+COLUMNS=Columns;
+RESETALL=Reset All;
+DEVICE=Device;
+COLOR=Color;
+LABEL=Label;
+NEWLABEL=New Label;
+INSPECTOR=Inspector;
+BACKGROUNDCOLOR=Background Color;
+
+SLIDENOTES=Slide Notes;
+
+EXPIRED=The license associated with this code has expired.;
+NETWORKERROR=Registration server could not be reached.;
+KEYDEACTIVATED=This code has been deactivated.;
+CODEDISABLED=This code has been disabled.;
+NOSEATSAVAILABLE=No seats for this license are available.;
+KEYNOTFOUND=Could not find the license associated with this code.;
+TIMEDISCREPANCY=The current system time is incompatible with the current license.;
+UNKNOWN=An unknown error occurred.;
+
+CONTACT=Please contact Renewed Vision for further assistance with this issue.;
+
+AUTOMATICADVANCE=Advance;
+SLIDEONSTAGEONLY=Stage Only;
+
+DAY=Day;
+DAYS=Days;
+HOUR=Hour;
+HOURS=Hours;
+MINUTE=Minute;
+MINUTES=Minutes;
+MEDIA=Media;
+
+ALIGN=Align;
+
+POSITIONALIGNMENT_TOPLEFT=From Top Left;
+POSITIONALIGNMENT_TOPCENTER=From Top;
+POSITIONALIGNMENT_TOPRIGHT=From Top Right;
+POSITIONALIGNMENT_MIDDLELEFT=From Left;
+POSITIONALIGNMENT_MIDDLECENTER=From Center;
+POSITIONALIGNMENT_MIDDLERIGHT=From Right;
+POSITIONALIGNMENT_BOTTOMLEFT=From Bottom Left;
+POSITIONALIGNMENT_BOTTOMCENTER=From Bottom;
+POSITIONALIGNMENT_BOTTOMRIGHT=From Bottom Right;
+
+DELETEGUIDE=Delete Guideline;
+DELETEGUIDES=Delete Guidelines;
+SIDES=Sides;
+
+OPTIONS=Options;
+
+WELCOME_TITLE=Welcome To ProPresenter;
+WELCOME_INTRO_TITLE=Welcome to ProPresenter;
+WELCOME_INTRO_DESCRIPTION=Here is a video walk through of the new ProPresenter;
+WELCOME_MIGRATION_TITLE=Migrate Existing Information;
+WELCOME_MIGRATION_LIBRARIES=Libraries;
+WELCOME_MIGRATION_LIBRARIESPLAYLISTS=Library Playlists;
+WELCOME_MIGRATION_OTHERLIBRARY=Other Library;
+WELCOME_MIGRATION_MIGRATELIBRARY=For each selected library also migrate:;
+WELCOME_MIGRATION_SETTINGSANDSUPPORTFILES=Settings and Support Files;
+WELCOME_MIGRATION_MIGRATE=Migrate;
+WELCOME_MIGRATION_SKIPMIGRATION=Skip Migration;
+WELCOME_MIGRATION_FROMANOTHERCOMPUTER=Migrating From Another Computer?;
+WELCOME_MIGRATION_GOBACK=< Welcome;
+WELCOME_MIGRATION_INPROGRESS=Migration In Progress;
+WELCOME_MIGRATION_ABORT=Abort Migration;
+WELCOME_MIGRATION_COMPLETE=Migration Complete;
+
+WELCOME_SETTINGS_TITLE=Help us help you.;
+WELCOME_SETTINGS_HOW_MAIN=House of worship?;
+WELCOME_SETTINGS_HOW_SUB_1=We know that not everyone uses ProPresenter in the church.;
+WELCOME_SETTINGS_HOW_SUB_2=If you’d rather not see integrations specific to the church, you don’t want this option.;
+WELCOME_SETTINGS_CRASHREPORTING_MAIN=Share Crash Reports;
+WELCOME_SETTINGS_CRASHREPORTING_SUB=Automatically upload crash reports to our developers.;
+WELCOME_SETTINGS_ENABLEANALYTICS_MAIN=Share ProPresenter Analytics;
+WELCOME_SETTINGS_ENABLEANALYTICS_SUB=The anonymous data we collect allows us to serve you better.;
+WELCOME_SETTINGS_GOBACK=< Screen Configuration;
+
+WELCOME_SCREENCONFIG_TITLE=Configure Screens;
+WELCOME_SCREENCONFIG_AUDIENCE=Audience;
+WELCOME_SCREENCONFIG_AUDIENCE_SUB=screens showing content for the audience;
+WELCOME_SCREENCONFIG_STAGE=Stage;
+WELCOME_SCREENCONFIG_STAGE_SUB=screens showing content for the stage;
+WELCOME_SCREENCONFIG_SELECTDEVICE=Select an output device...;
+WELCOME_SCREENCONFIG_ABOUTCONFIG=About Screen Configuration...;
+WELCOME_SCREENCONFIG_ADDITIONALCONFIG=Additional audience and stage screens can be configured in the full Screen Configuration window.;
+WELCOME_SCREENCONFIG_ACCESSINFO=You can access screen configuration at any time by selecting Screens > Configure… from the app menu;
+WELCOME_SCREENCONFIG_GOBACK=< Migration;
+
+WELCOME_APPENDIX_TITLE=Continue Learning;
+WELCOME_APPENDIX_GETSAMPLE=Get Sample Content;
+WELCOME_APPENDIX_TUTORIALS=Tutorials;
+WELCOME_APPENDIX_USERFORUMS=User Forums;
+WELCOME_APPENDIX_FOLLOWUS=Follow us @propresenter;
+WELCOME_APPENDIX_GOBACK=< Customization;
+
+SEARCH=Search;
+REFLOW=Reflow;
+BIBLE=Bible;
+TIMERS=Timers;
+MESSAGES=Messages;
+STAGE=Stage;
+PROPS=Props;
+SERVICES=Services;
+STORE=Store;
+FEEDBACK=Feedback;
+MORE=More;
+
+WHATSNEW_TITLE=What's New In ProPresenter;
+WHATSNEW_SEEALLCHANGES=See All Changes >;
+
+ADDSLIDE=Add Slide;
+ADDNEWSLIDE=Add New Slide;
+NEWSLIDE=New Slide;
+
+ARRANGEMENTS=Arrangements;
+TIMELINE=Timeline;
+
+GRIDVIEW=Grid View;
+EASYVIEW=Easy View;
+TABLEVIEW=Table View;
+
+CUT=Cut;
+DISSOLVE=Dissolve;
+ADVANCED=Advanced;
+
+DESTINATIONTARGET=Presentation destination target;
+DEFAULTPRESENTATIONTRANSITION=Presentation default transition;
+
+UNCONFIGURED=Unconfigured;
+
+ON=On;
+OFF=Off;
+
+TYPEFACE=Typeface;
+WEIGHT=Weight;
+
+COPYSTYLE=Copy Text Style;
+PASTESTYLE=Paste Text Style;
+APPLYSTYLETOALLSLIDES=Apply Text Style To All Slides;
+
+THEMEEDITOR=Theme Editor;
+CCLIEDITOR=CCLI Editor;
+PROPSEDITOR=Props Editor;
+MASKEDITOR=Mask Editor;
+
+IMPROPERFILLWARNING=Audio files are not supported;
+
+FOLDER_PERMISSION_ISSUE=ProPresenter requires access to "{0}".\n\nPlease ensure that you have proper permissions to access that folder and the files within.;
+OPENGL_CONTEXT_ERROR=ProPresenter requires an OpenGL 3.2 compatible graphics card and driver.\n\nPlease ensure the graphics drivers for your system are up-to-date.;
+SMARTPLAYLISTIMPORTNOTALLOWED=You cannot import a file to a Smart Playlist. Please select another media playlist.;
+
+MEDIANOTFOUND=Media not found;
+AUDIONOTFOUND=Audio not found;
+ACTIONINVALID={0} action not valid;
+
+YES=Yes;
+NO=No;

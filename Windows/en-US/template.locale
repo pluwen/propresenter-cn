@@ -1,0 +1,14 @@
+NEWTHEME=New Theme;
+NEWTEMPLATE=New Template;
+SAVEASTHEME=New Theme from selection;
+REFACTORPREFERENCES=Refactor Preferences;
+SIZETEXTTOFIT=Size Text to Fit;
+PRESERVETEXTATTRIBUTES=Preserve Text Attributes;
+EDITTHEME=Edit;
+DELETETHEME=Delete Theme;
+
+NEWTHEMEINSTRUCTION=Enter the name of the new theme, or choose an existing theme to overwrite.;
+OVERWRITETHEME={0} already exists, do you want to replace it?;
+
+APPLYTEMPLATETOALLDOCUMENTS=Are you sure you want to change the template for {0} selected presentations?;
+ADDTOTHEME=Add selection to Theme;

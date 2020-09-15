@@ -1,0 +1,27 @@
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Abg-ay-NIO"; */
+"Abg-ay-NIO.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "J8n-bF-58x"; */
+"J8n-bF-58x.title" = "Done";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "LAa-oA-CTj"; */
+"LAa-oA-CTj.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "cIH-R7-2ie"; */
+"cIH-R7-2ie.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "gec-eT-3e0"; */
+"gec-eT-3e0.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "knr-YC-5GW"; */
+"knr-YC-5GW.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Device"; ObjectID = "mEI-B2-wWc"; */
+"mEI-B2-wWc.title" = "Device";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "xnT-cj-CuE"; */
+"xnT-cj-CuE.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Command"; ObjectID = "zvA-XG-lNC"; */
+"zvA-XG-lNC.title" = "Command";

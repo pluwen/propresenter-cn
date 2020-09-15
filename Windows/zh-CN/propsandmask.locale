@@ -1,0 +1,7 @@
+PROPS=Props;
+MASK=Mask;
+
+PROPNAME=Prop;
+MASKNAME=Mask;
+CLEARALL=Clear All;
+NOPROPS=No Props;

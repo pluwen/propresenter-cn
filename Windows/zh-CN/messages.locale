@@ -1,0 +1,25 @@
+MESSAGES=Messages;
+SHOW=Show;
+NEWMESSAGE=New Message;
+DISMISS=Dismiss;
+REQUEST=Message Request;
+
+FIRSTNAME=First Name;
+LASTNAME=Last Name;
+MESSAGE=Message;
+ROOM=Room;
+
+SYSTEMCLOCK=System Clock;
+USE24HOUR=24 Hour;
+DATE=Date;
+SHOWONNETWORK=Allow Web Notifications;
+
+MANUAL=Manual;
+AFTERTIMERS=When Timer Expires;
+AFTERTIME=After Time;
+AFTERTIMEFORMAT=After;
+SECONDS=Seconds;
+
+NETWORKERROR=Network Error;
+NETWORKDISABLED=The current network has been turned off. Please go to the network settings in preferences to enable your network.;
+NOMESSAGES=No Messages;

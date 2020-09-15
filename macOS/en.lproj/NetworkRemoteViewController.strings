@@ -1,0 +1,18 @@
+
+/* Class = "NSButtonCell"; title = "Enable ProPresenter Remote"; ObjectID = "lDu-nz-z5F"; */
+"lDu-nz-z5F.title" = "Enable ProPresenter Remote";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "mOo-jo-1WC"; */
+"mOo-jo-1WC.title" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "vtU-B6-isn"; */
+"vtU-B6-isn.title" = "Password:";
+
+/* Class = "NSButtonCell"; title = "Controller"; ObjectID = "xNa-4e-fjD"; */
+"xNa-4e-fjD.title" = "Controller";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "yNq-Og-McD"; */
+"yNq-Og-McD.title" = "Port:";
+
+/* Class = "NSButtonCell"; title = "Observer"; ObjectID = "yoP-CF-VRQ"; */
+"yoP-CF-VRQ.title" = "Observer";

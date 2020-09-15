@@ -1,0 +1,14 @@
+﻿SONGSELECT=SongSelect;
+SEARCH=Search;
+SEARCHHELPERTEXT=Enter Search Text;
+RESULTPERPAGE=Result Per Page;
+CCLINUM=CCLI #;
+AUTHORS=Authors;
+LICENSE=License;
+FOUND=Found;
+LYRICSPREVIEW=Lyrics Preview;
+LOADINGNOW=Loading now...;
+NOLYRICS=Can't import this song because there are no lyrics. Please contact SongSelect;
+NOINTERNET=Internet connection is not available. Please check your connection status;
+ENTERKEYWORD=Please enter your keyword;
+SONGSELECTLOGIN=SongSelect Login;

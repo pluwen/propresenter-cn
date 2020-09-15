@@ -1,0 +1,30 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Behavior"; ObjectID = "7"; */
+"7.title" = "Behavior";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "9"; */
+"9.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Hardware"; ObjectID = "12"; */
+"12.title" = "Hardware";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; */
+"14.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "35"; */
+"35.title" = "Label";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "%{title1}@: %{title2}@"; ObjectID = "43"; */
+"43.ibShadowedDisplayPattern" = "%{title1}@: %{title2}@";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "%{title1}@: %{title2}@"; ObjectID = "45"; */
+"45.ibShadowedDisplayPattern" = "%{title1}@: %{title2}@";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "57"; */
+"57.title" = "Save";
+
+/* Class = "NSButtonCell"; title = "Reconnect"; ObjectID = "62"; */
+"62.title" = "Reconnect";
