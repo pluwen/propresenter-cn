@@ -1,5 +1,5 @@
 ﻿REMOVEALL=Remove All;
-NOGROUPNAME=No Group Name;
+NOGROUPNAME=Group;
 
 SLIDESBYGROUP=Slides By Group;
 CUEBACKGROUNDCOLOR=Cue Background Color;
@@ -62,3 +62,7 @@ SIZEMISMATCH=Presentation size does not match the resolution of any configured s
 NOSLIDESHOW=No Slide Show;
 SLIDESHOW=Slide Show;
 ENTERCUSTOMDURATION=Enter a custom duration for each slide;
+
+JUMPTOSTART=Jump to Start;
+PLAY=Play;
+RECORD=Record;

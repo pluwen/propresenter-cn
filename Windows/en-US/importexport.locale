@@ -17,7 +17,7 @@ IMPORT=Import;
 IMPORTALL=Import All;
 PARSING=Parsing;
 SLIDESDELIMITEDBY=Slides delimited by;
-DELIMITERSPERSLIDE=Delimiters per slide;
+DELIMITERSPERSLIDE=delimiter(s) per slide;
 DESTINATION=Destination;
 
 SLIDEDELIMITERTYPES_LINEBREAK=Line Break;

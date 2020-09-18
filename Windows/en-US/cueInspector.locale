@@ -79,7 +79,7 @@ DELAYTIME=Delay Time;
 PLAYRATE=Play Rate;
 
 MEDIACHANNEL=Media Channel;
-OUTPUTCHANNEL=Output Channel;
+OUTPUTCHANNEL=Pro Channel;
 CROP=Crop;
 ROTATION=Rotation;
 VIDEOSOURCE=Video Source;

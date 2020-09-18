@@ -319,9 +319,17 @@ FOLDER_PERMISSION_ISSUE=ProPresenter requires access to "{0}".\n\nPlease ensure 
 OPENGL_CONTEXT_ERROR=ProPresenter requires an OpenGL 3.2 compatible graphics card and driver.\n\nPlease ensure the graphics drivers for your system are up-to-date.;
 SMARTPLAYLISTIMPORTNOTALLOWED=You cannot import a file to a Smart Playlist. Please select another media playlist.;
 
+VISIT_WEBPAGE_INFO=For more information, please visit;
+
 MEDIANOTFOUND=Media not found;
 AUDIONOTFOUND=Audio not found;
 ACTIONINVALID={0} action not valid;
 
 YES=Yes;
 NO=No;
+
+STAGEACTION_NAME=Stage Action;
+AUDIENCELOOKACTION_NAME=Audience Look Action;
+
+ERROR_MERGESLIDES=Cannot combine slides without a Text Element;
+DEFAULT_STAGELAYOUTNAME=Stage Layout;

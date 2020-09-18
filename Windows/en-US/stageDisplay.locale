@@ -1,4 +1,5 @@
-STAGEDISPLAY=Stage Display;
+STAGEDISPLAY=Stage;
+STAGESCREEN=Stage Screen;
 CURRENTSLIDE=Current Slide;
 CURRENTSLIDENOTE=Current Slide Notes;
 NEXTSLIDE=Next Slide;
@@ -8,12 +9,11 @@ SYSTEMCLOCK=System Clock;
 VIDEOCOUNTDOWN=Video Countdown;
 PLANNINGCENTERLIVE=Planning Center Live;
 PCO=Planning Center Online;
-STAGELAYOUT=Stage Layout;
 NOPLANSELECTED=No plan has been selected. Please choose a plan to use this feature.;
 TIMERS=Timers;
 
 EDITLAYOUTS=Edit Layouts;
-STAGEDISPLAYMESSAGE=Stage Display Message;
+STAGEDISPLAYMESSAGE=Stage Message;
 SENDMESSAGE=Send Message;
 STAGELAYOUTS=Stage Layouts;
 STAGEEDITOR=Stage Editor;
