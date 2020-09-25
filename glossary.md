@@ -1,5 +1,12 @@
 # ProPresenter 术语
 
+## 不翻译的词
+| 单词 | 解释 |
+|--|--|
+| CCLI | Christian Copyright Licensing International 基督教版权许可国际组织 |
+| SongSelect | SongSelect 是敬拜歌曲资源的权威来源 |
+
+## 术语表
 | 单词 | 翻译 |
 |--|--|
 | Action | 动作 |
