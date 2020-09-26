@@ -24,7 +24,7 @@
 | Configuration | 配置 |
 | Copy | 复制 |
 | Cue | 提示 |
-| Document | 文件 |
+| Document | 文档 |
 | Duplicate | 创建副本 |
 | Easy | 简易 |
 | Edge | 边缘 |
