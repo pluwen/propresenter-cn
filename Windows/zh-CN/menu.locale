@@ -183,7 +183,7 @@ TOOLBAR_SHOWFORMATBARFULL=Show Format Bar;
 TOOLBAR_REFLOW=Reflow;
 TOOLBAR_PROREMOTE=ProRemote;
 
-TOOLBAR_TOOLTIP_SEARCH=Search Library contents and SongSelect;
+TOOLBAR_TOOLTIP_SEARCH=搜索资源库内容和 SongSelect;
 TOOLBAR_TOOLTIP_TEXT=Adjust the slide's text style;
 TOOLBAR_TOOLTIP_THEME=Apply a theme to the selection;
 TOOLBAR_TOOLTIP_MAIN=Enter Show Mode;
