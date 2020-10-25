@@ -26,6 +26,7 @@
 | Cue | 提示 |
 | Document | 文档 |
 | Duplicate | 创建副本 |
+| Duration | 持续时间 |
 | Easy | 简易 |
 | Edge | 边缘 |
 | Element | 元素 |
