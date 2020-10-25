@@ -1,9 +1,9 @@
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Shift Cues by Offset Value"; ObjectID = "138"; */
-"138.ibShadowedToolTip" = "Shift Cues by Offset Value";
+"138.ibShadowedToolTip" = "按偏移值移动提示";
 
 /* Class = "NSTextFieldCell"; title = "Offset:"; ObjectID = "141"; */
-"141.title" = "Offset:";
+"141.title" = "偏移：";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Play Timeline"; ObjectID = "147"; */
 "147.ibShadowedToolTip" = "Play Timeline";
@@ -18,22 +18,22 @@
 "183.title" = "Label:";
 
 /* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "187"; */
-"187.title" = "Time:";
+"187.title" = "时间：";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Time"; ObjectID = "188"; */
-"188.placeholderString" = "Time";
+"188.placeholderString" = "时间";
 
 /* Class = "NSTextFieldCell"; title = "00:00:00:00"; ObjectID = "188"; */
 "188.title" = "00:00:00:00";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Loop Timeline"; ObjectID = "191"; */
-"191.ibShadowedToolTip" = "Loop Timeline";
+"191.ibShadowedToolTip" = "Loop 时间线";
 
 /* Class = "NSButtonCell"; title = "Edit Properties"; ObjectID = "211"; */
-"211.title" = "Edit Properties";
+"211.title" = "编辑属性";
 
 /* Class = "NSSlider"; ibShadowedToolTip = "Zoom Timeline"; ObjectID = "299"; */
-"299.ibShadowedToolTip" = "Zoom Timeline";
+"299.ibShadowedToolTip" = "Zoom 时间线";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Timeline Duration"; ObjectID = "336"; */
 "336.ibShadowedToolTip" = "Timeline Duration";
@@ -42,7 +42,7 @@
 "340.title" = "Duration:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Record Cues"; ObjectID = "342"; */
-"342.ibShadowedToolTip" = "Record Cues";
+"342.ibShadowedToolTip" = "录制提示";
 
 /* Class = "NSSlider"; ibShadowedToolTip = "Modify Playback Rate"; ObjectID = "484"; */
 "484.ibShadowedToolTip" = "Modify Playback Rate";
@@ -54,10 +54,10 @@
 "523.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Remove All"; ObjectID = "524"; */
-"524.title" = "Remove All";
+"524.title" = "全部移除";
 
 /* Class = "NSMenuItem"; title = "Slide Show"; ObjectID = "526"; */
-"526.title" = "Slide Show";
+"526.title" = "幻灯片显示";
 
 /* Class = "NSMenuItem"; title = "30"; ObjectID = "527"; */
 "527.title" = "30";

@@ -47,6 +47,8 @@
 | New | 新建 |
 | Note | 注释 |
 | Object | 对象 |
+| Offset | 偏移 |
+| Outline View | 大纲视图 |
 | Playback | 播放 |
 | Playlist | 播放列表 |
 | Preferences | 偏好设置 |
@@ -62,3 +64,4 @@
 | Text | 文本 |
 | Timer | 计时器 |
 | Transition | 过渡 |
+| Verse | 经文 |
