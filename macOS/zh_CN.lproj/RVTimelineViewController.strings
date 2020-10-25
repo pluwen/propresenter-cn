@@ -6,16 +6,16 @@
 "141.title" = "偏移：";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Play Timeline"; ObjectID = "147"; */
-"147.ibShadowedToolTip" = "Play Timeline";
+"147.ibShadowedToolTip" = "播放时间线";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Rewind Timeline"; ObjectID = "152"; */
-"152.ibShadowedToolTip" = "Rewind Timeline";
+"152.ibShadowedToolTip" = "回溯时间线";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Label"; ObjectID = "179"; */
-"179.placeholderString" = "Label";
+"179.placeholderString" = "标签";
 
 /* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "183"; */
-"183.title" = "Label:";
+"183.title" = "标签：";
 
 /* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "187"; */
 "187.title" = "时间：";
@@ -36,19 +36,19 @@
 "299.ibShadowedToolTip" = "Zoom 时间线";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Timeline Duration"; ObjectID = "336"; */
-"336.ibShadowedToolTip" = "Timeline Duration";
+"336.ibShadowedToolTip" = "时间线长度";
 
 /* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "340"; */
-"340.title" = "Duration:";
+"340.title" = "长度：";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Record Cues"; ObjectID = "342"; */
 "342.ibShadowedToolTip" = "录制提示";
 
 /* Class = "NSSlider"; ibShadowedToolTip = "Modify Playback Rate"; ObjectID = "484"; */
-"484.ibShadowedToolTip" = "Modify Playback Rate";
+"484.ibShadowedToolTip" = "修改播放速度";
 
 /* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "487"; */
-"487.title" = "Rate:";
+"487.title" = "速度：";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "523"; */
 "523.title" = "OtherViews";
@@ -81,34 +81,34 @@
 "533.title" = "2";
 
 /* Class = "NSMenuItem"; title = "1 Sec"; ObjectID = "534"; */
-"534.title" = "1 Sec";
+"534.title" = "1 秒";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "536"; */
 "536.title" = "Box";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Audio Tracks for Timeline"; ObjectID = "546"; */
-"546.ibShadowedToolTip" = "Audio Tracks for Timeline";
+"546.ibShadowedToolTip" = "时间线的音轨";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "548"; */
 "548.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Remove Current Track"; ObjectID = "550"; */
-"550.title" = "Remove Current Track";
+"550.title" = "移除当前音轨";
 
 /* Class = "NSMenuItem"; title = "Add New Track"; ObjectID = "551"; */
-"551.title" = "Add New Track";
+"551.title" = "添加新的音轨";
 
 /* Class = "NSMenuItem"; title = "Audio Track"; ObjectID = "552"; */
-"552.title" = "Audio Track";
+"552.title" = "音轨";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "8BL-we-sc7"; */
-"8BL-we-sc7.title" = "Table View Cell";
+"8BL-we-sc7.title" = "表格视图单元格";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OUr-E6-dVI"; */
-"OUr-E6-dVI.title" = "Table View Cell";
+"OUr-E6-dVI.title" = "表格视图单元格";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Plo-2b-Scz"; */
-"Plo-2b-Scz.title" = "Text Cell";
+"Plo-2b-Scz.title" = "文本单元格";
 
 /* Class = "NSTextFieldCell"; title = "1x"; ObjectID = "UKs-PL-W0i"; */
 "UKs-PL-W0i.title" = "1x";
@@ -120,13 +120,13 @@
 "fS2-uY-aci.ibShadowedDisplayPattern" = "%{value1}@x";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fTK-Ja-61B"; */
-"fTK-Ja-61B.title" = "Text Cell";
+"fTK-Ja-61B.title" = "文本单元格";
 
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "hWt-sZ-ory"; */
-"hWt-sZ-ory.title" = "Done";
+"hWt-sZ-ory.title" = "完成";
 
 /* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "iAL-Av-mCI"; */
-"iAL-Av-mCI.headerCell.title" = "Time";
+"iAL-Av-mCI.headerCell.title" = "时间";
 
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "t3b-Ub-Ucv"; */
-"t3b-Ub-Ucv.title" = "Done";
+"t3b-Ub-Ucv.title" = "完成";
