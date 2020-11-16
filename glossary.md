@@ -33,6 +33,7 @@
 | Filter | 过滤 |
 | Grid | 网格 |
 | Group | 分组 |
+| Guides | 参考线 |
 | Identify | 识别 |
 | Image | 图像 |
 | Intensity | 强度 |
