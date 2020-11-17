@@ -1,13 +1,10 @@
 LIBRARY=Library;
 ADDNEWLIBRARY=New Library;
-ENTERLIBRARYNAME=Enter new library name;
 SELECTLIBRARY=Select a library;
 FILTER=Filter;
 ALL=All;
 ADDTO=Add to;
 MOVETO=Move to;
-SHOWDETAILEDROWS=Show Detailed Rows;
-INCLUDESONGSELECT=Include SongSelect results in search;
 EXPORTPROBUNDLE=Export as Bundle...;
 EXPORTIMAGESLIDE=Export as Images...;
 ARRANGEMENT=Arrangement;
@@ -19,16 +16,9 @@ PRESENTATIONNAMEINCLUDESINVALIDCHARERROR=A file name can't contain any of the fo
 PRESENTATIONNAMEINCLUDESRESERVEDNAMEERROR=A file name includes a system reserved word(s) as follows: {0}. Please use another name.;
 PRESENTATIONNAMENULLERROR=A file name can't be null;
 
-SEARCHFIELD_MATCHEDBY=Matched by:;
-SEARCHFIELD_CONTENT=Content;
-SEARCHFIELD_NAME=Name;
-SEARCHFIELD_NOTES=Notes;
-SEARCHFIELD_TITLE=Title;
-SEARCHFIELD_ARTIST=Artist;
-SEARCHFIELD_AUTHOR=Author;
-SEARCHFIELD_COPYRIGHT=Copyright;
-SEARCHFIELD_PUBLISHER=Publisher;
-SEARCHFIELD_SONGNUMBER=Song Number;
+EXPORTNAMEEMPTYERROR=Name cannot be empty.;
+EXPORTNAMEENDSWITHSPACEERROR=Name cannot end with a space.;
+EXPORTNAMEINCLUDESINVALIDCHARERROR=The specific name "{0}" contains invalid characters.;
 
 NOPRESENTATIONSELECTEDWARNING=No presentation selected;
 UPDATESAVAILABLE=Updates Available;

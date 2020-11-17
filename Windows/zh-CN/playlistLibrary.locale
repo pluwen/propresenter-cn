@@ -1,19 +1,14 @@
 PLAYLIST=Playlist;
 PLAYLISTFOLDER=Playlist Folder;
-CONTIGUOUS=Contiguous;
-OPENFILEEXPLORER=Open File Explorer;
 SHOWINLIBRARY=Show in Library;
 UPLOADPCO=Upload to PCO;
 NOSELECTEDPLAYLISTWARNING=Presentation added to the library, but no playlist was selected.;
 NONPCOCONVERSIONWARNING=Are you sure you want to convert this PCO Playlist to Non-PCO playlist? This Cannot be undone or convert back to a PCO playlist.;
 UNLINKEDPCOITEMCONVERSIONWARNING=There are unlinked planning center items in your playlist. Converting to a standard playlist will remove those items.;
 
-DELETETAG=Delete Tag;
 REFRESHPCO=Refresh PCO Playlist;
-FINDLIBRARYMATCHES=Find Library Matches;
 CONVERTTOSTANDARDPLAYLIST=Convert to Standard Playlist;
 PCOEDITWARNING=PCO Playlists do not allow editing. To make changes, convert to PCO playlist to a regular playlist.;
-PRINTPLAYLIST=Print Playlist;
 HOTFOLDERBEHAVIOR=Smart Playlist Behavior;
 
 NEWPRESENTATION=New Presentation;
@@ -24,4 +19,3 @@ INTERNETUNAVAILABLE=Internet is not available;
 CHECKINTERNETSTATUS=Internet connection is not available. Please check your connection status.;
 IMPORTPCOPLAN=Importing PCO Plan;
 
-UPDATENOW=Update Now;

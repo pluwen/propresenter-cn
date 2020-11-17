@@ -1,4 +1,4 @@
-﻿REMOVEALL=Remove All;
+REMOVEALL=Remove All;
 NOGROUPNAME=Group;
 
 SLIDESBYGROUP=Slides By Group;
@@ -15,8 +15,6 @@ DISPLAYCOPYRIGHT=Display Copyright;
 SONGNUM=CCLI #;
 COPYRIGHTYEAR=‎Year;
 NOTES=Notes;
-TODAY=Today;
-YESTERDAY=Yesterday;
 SELECTPAGE=Select a Page;
 OPERATORNOTE=Operator Notes;
 
@@ -35,7 +33,6 @@ APPLYTOALL=Apply to All;
 ANGLE=Angle;
 LENGTH=Length;
 RADIUS=Radius;
-OUTLINESETTING=Outline;
 STROKE=Stroke;
 
 HOTKEY_ENTERHOTKEY=Enter Hot Key to trigger slide;
@@ -59,7 +56,6 @@ CUE=Cue;
 
 SIZEMISMATCH=Presentation size does not match the resolution of any configured screens;
 
-NOSLIDESHOW=No Slide Show;
 SLIDESHOW=Slide Show;
 ENTERCUSTOMDURATION=Enter a custom duration for each slide;
 

@@ -1,19 +1,13 @@
-﻿TRANSITION=Transition;
+TRANSITION=Transition;
 TRANSITIONS=Transitions;
 TRANSITION_DURATION=Duration;
 TRANSITION_RESETTODEFAULTPARAM=Reset to Default Parameters;
-TRANSITION_FAVORITETOOLTIP1=Add this transition to your favorites?;
-TRANSITION_FAVORITETOOLTIP2=Remove or update this favorite Transition?;
 
-TRANSITION_USEPRESENTATIONTRANSITION=Use Presentation Transition;
-TRANSITION_USEDOCUMENTTRANSITION=Use Presentation Transition;
-TRANSITION_USEMEDIALIBRARYTRANSITION=Use Media Library Transition;
 
 TRANSITION_NORESULTS=No Results;
 TRANSITION_NOFAVORITE=No Favorite Transitions;
 TRANSITION_FAVORITEINSTRUCT=Click the star to favorite a transition;
 TRANSITION_NORECENT=No Recent Transitions;
-TRANSITION_SEARCHFORTRANSITIONS=Search for Transitions;
 TRANSITION_FAVORITES=Favorites;
 TRANSITION_RECENT=Recents;
 TRANSITION_ALL=All;
@@ -32,7 +26,6 @@ CANCEL=Cancel;
 CLOSE=Close;
 STOP=Stop;
 START=Start;
-SUBMIT=Submit;
 CONTINUE=Continue;
 
 ACCEPT=Accept;
@@ -47,7 +40,6 @@ FILEEXISTMESSAGE="{0}" already exists in the {1}. Do you want to replace it with
 
 FILEEXISTHEADER=File Exists;
 MEDIAFOLDER=Renewed Vision Media Folder;
-LIBRARYFOLDER=Library;
 BACKGROUND=Background;
 PURCHASED=Purchased;
 
@@ -56,13 +48,11 @@ DEFAULT=Default;
 QUITPROPRESENTER=Are you sure you want to quit ProPresenter?;
 
 ERROR=Error;
-PATHALREADYEXIST=Path already exists.;
 
 DOWNLOADING=Downloading;
 UPLOADING=Uploading;
 UPDATINGPCO=Updating PCO Plan;
 
-DEVICESELECTION_DISABLEDDEVICE=-Disabled-;
 
 GO=Go;
 SHOW=Show;
@@ -70,7 +60,6 @@ HIDE=Hide;
 NEWGROUP=New Group;
 NEWPLAYLIST=New Playlist;
 
-COLORNAME_NONE=None;
 COLORNAME_BLACK=Black;
 COLORNAME_BLUE=Blue;
 COLORNAME_BROWN=Brown;
@@ -83,11 +72,8 @@ COLORNAME_RED=Red;
 COLORNAME_YELLOW=Yellow;
 COLORNAME_WHITE=White;
 
-IMPORTPROGRESS=Imported {0} of {1};
 
 CONFIRMDELETE=Confirm Delete;
-DELETECONFIRMATIONMESSAGE_ONEFILE=Are you sure you want to send {0} to the Recycle Bin?;
-DELETECONFIRMATIONMESSAGE_MULTIPLEFILES=Are you sure you want to send {0} files to the Recycle Bin?;
 DELETECONFIRMATIONMESSAGE_LIBRARY=Are you sure you want to remove all selected libraries?;
 DELETECONFIRMATIONMESSAGE_PRESENTATION=Are you sure you want to remove all selected library presentations?;
 DELETECONFIRMATIONMESSAGE_THEME=Are you sure you want to remove theme named "{0}"?;
@@ -155,7 +141,6 @@ ITEM=Item;
 ITEMS=Items;
 NEWGROUPFOLDER=New Playlist Folder;
 OPENFILELOCATION=Open File Location;
-REMOVEFROMPLAYLIST=Remove from Playlist;
 SEARCHHELPERTEXT=Search;
 COPYRIGHT=Copyright;
 INSTALLED=Installed;
@@ -189,15 +174,10 @@ UNKNOWN=An unknown error occurred.;
 
 CONTACT=Please contact Renewed Vision for further assistance with this issue.;
 
-AUTOMATICADVANCE=Advance;
-SLIDEONSTAGEONLY=Stage Only;
-
 DAY=Day;
-DAYS=Days;
 HOUR=Hour;
 HOURS=Hours;
 MINUTE=Minute;
-MINUTES=Minutes;
 MEDIA=Media;
 
 ALIGN=Align;
@@ -219,13 +199,9 @@ SIDES=Sides;
 OPTIONS=Options;
 
 WELCOME_TITLE=Welcome To ProPresenter;
-WELCOME_INTRO_TITLE=Welcome to ProPresenter;
-WELCOME_INTRO_DESCRIPTION=Here is a video walk through of the new ProPresenter;
 WELCOME_MIGRATION_TITLE=Migrate Existing Information;
 WELCOME_MIGRATION_LIBRARIES=Libraries;
 WELCOME_MIGRATION_LIBRARIESPLAYLISTS=Library Playlists;
-WELCOME_MIGRATION_OTHERLIBRARY=Other Library;
-WELCOME_MIGRATION_MIGRATELIBRARY=For each selected library also migrate:;
 WELCOME_MIGRATION_SETTINGSANDSUPPORTFILES=Settings and Support Files;
 WELCOME_MIGRATION_MIGRATE=Migrate;
 WELCOME_MIGRATION_SKIPMIGRATION=Skip Migration;
@@ -301,17 +277,12 @@ UNCONFIGURED=Unconfigured;
 ON=On;
 OFF=Off;
 
-TYPEFACE=Typeface;
 WEIGHT=Weight;
 
 COPYSTYLE=Copy Text Style;
 PASTESTYLE=Paste Text Style;
 APPLYSTYLETOALLSLIDES=Apply Text Style To All Slides;
 
-THEMEEDITOR=Theme Editor;
-CCLIEDITOR=CCLI Editor;
-PROPSEDITOR=Props Editor;
-MASKEDITOR=Mask Editor;
 
 IMPROPERFILLWARNING=Audio files are not supported;
 

@@ -1,51 +1,17 @@
-MAIN_UNREGISTERED_TITLE=ProPresenter - Unregistered;
-MAIN_REGISTERED_TITLE=ProPresenter - Registered To: {0};
-REGISTRATION_TITLE=Registration;
 
 REGISTEREDTO=Registered To;
 UNLOCKCODE=Unlock Code;
 
-BUYNOW=Buy Now;
-TRYIT=Try It;
 UNREGISTER=Unregister;
-UPGRADE=Upgrade;
 
-REMAININGSEATS=There are {0} seats available to register;
 
-MODULE_ALPHAKEY_TITLE=Alpha Key;
-MODULE_ALPHAKEY_DESC=Key and Fill HD/SDI output designed for Blackmagic Video Cards;
-MODULE_ADVANCED_TITLE=Advanced;
-MODULE_ADVANCED_DESC=Legacy Module which includes Multi-Screen and SDI Output functionality;
-MODULE_EDGEBLEND_TITLE=Edge Blending;
-MODULE_EDGEBLEND_DESC=An Extension to Multi-Screen that allows a seamless blend between two or three projector screens;
-MODULE_MULTISCREEN_TITLE=Multi-Screen;
-MODULE_MULTISCREEN_DESC=Multiple Screen Options designed for Matrox Duel and Triple Head-2-Go;
-MODULE_MASTERCONTROL_TITLE=Master Control;
-MODULE_MASTERCONTROL_DESC=Master control of other ProPresenter Computers over the network;
-MODULE_SDI_TITLE=SDI Output;
-MODULE_SDI_DESC=Sends the output through SDI. Designed for Blackmagic Video Cards;
-MODULE_COMMUNICATIONS_TITLE=Devices;
-MODULE_COMMUNICATIONS_DESC=Allows ProPresenter to interface with various external hardware devices;
-MODULE_MIDI_TITLE=MIDI;
-MODULE_MIDI_DESC=Allows ProPresenter to interface with external MIDI devices;
 
-LICENSEPURCHASED=License Purchased: {0:MMM d, yyyy};
 ACTIVATE=Activate;
 DEACTIVATE=Deactivate;
 AVAILABLE=Not in use;
-NOTAVAILABLE=Not Available;
 INUSE=In use on {0};
 
-MODULENOTREGISTERED=Module Not Registered;
-MODULENOTREGISTERED_MSG=You must purchase, activate, or demo the edge blend module in order to use this feature.;
-DEMO=Demo;
-DISABLEDEMO=Disable Demo;
 PURCHASE=Purchase;
-MODULEREQUIRED=This screen requires modules that have not been purchased;
-MODULEREQUIRED_MSG=This screen requires: {0}. If these modules are demoed, a watermark will appear on your output.;
-MODULEREQUIRED_EDGEBLEND=Edge Blend, SDI Output;
-MODULEREQUIRED_GROUPED=Edge Blend;
-MODULES=Modules;
 CANCEL=Cancel;
 REGISTER=Register;
 DEVICENAME=Device Name;
@@ -58,10 +24,8 @@ SEATS=Available Seats;
 
 REGISTER_PRO=Open Registration;
 
-HOSTSFILEREFERENCEDETECTED=Hosts file redirect detected.;
 PROPRESENTERWILLNOWCLOSE=ProPresenter will now close.;
 
-SELECTSEAT=Select Seat to Activate;
 BASIC=Basic;
 ADVANCED=Advanced;
 AVAILABLE=Available;
