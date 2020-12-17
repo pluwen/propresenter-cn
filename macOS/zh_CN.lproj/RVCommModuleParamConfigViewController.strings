@@ -1,9 +1,0 @@
-
-/* Class = "NSPanel"; title = "Parameters"; ObjectID = "1"; */
-"1.title" = "参数";
-
-/* Class = "NSButtonCell"; title = "Done"; ObjectID = "16"; */
-"16.title" = "完成";
-
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
-"21.title" = "取消";
