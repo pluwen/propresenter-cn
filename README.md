@@ -1,5 +1,5 @@
 # ProPresenter i18N
-ProPresenter 7 汉化包，支持 macOS 和 Windows
+ProPresenter 7 汉化包，支持 macOS 和 Windows。
 
 ## 汉化进展
 - [ ] macOS（70%）
@@ -12,6 +12,7 @@ ProPresenter 7 汉化包，支持 macOS 和 Windows
 ## 贡献
 * 欢迎提 pr 或者 issue
 * 其他问题欢迎 DM 我的推特 ↓
+* 招募翻译爱好者一起完善汉化
 
 ## 作者
 * [Pluwen](https://twitter.com/pluwen)
