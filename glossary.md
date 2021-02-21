@@ -14,6 +14,7 @@
 | Announcement | 公告 |
 | Arrange | 排列 |
 | Arrangement | 编排 |
+| Assignment | 分配 |
 | Audience | 观众 |
 | Audio | 音频 |
 | Audio Track | 音轨 |
@@ -22,6 +23,7 @@
 | Blend | 混合 |
 | Break | 中断 |
 | Build | 构建 |
+| Capture | 采集 |
 | Clear | 清除 |
 | Color | 颜色 |
 | Configuration | 配置 |
@@ -37,6 +39,7 @@
 | Element | 元素 |
 | Event | 事件 |
 | Filter | 过滤 |
+| Go to | 跳转 |
 | Grid | 网格 |
 | Group | 分组 |
 | Guides | 参考线 |
@@ -50,12 +53,14 @@
 | License | 许可证 |
 | Live | 现场 |
 | Lobby | 大堂 |
+| Looping Video | 循环视频 |
 | Map | 映射 |
 | Media | 视频 |
 | Media Bin | 视频库 |
 | Merge | 合并 |
 | Message | 消息 |
 | Migration | 迁移 |
+| Name | 名称 |
 | New | 新建 |
 | Note | 注释 |
 | Object | 对象 |
@@ -77,6 +82,7 @@
 | Slide | 幻灯片 |
 | Stage | 舞台 |
 | Text | 文本 |
+| Text Ticker | 滚动文本 |
 | Timer | 定时器 |
 | Transition | 过渡 |
 | Verse | 经文 |
