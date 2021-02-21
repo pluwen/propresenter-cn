@@ -17,13 +17,18 @@
 | Audience | 观众 |
 | Audio | 音频 |
 | Audio Track | 音轨 |
+| Background Color | 背景色 |
 | Behavior | 行为 |
 | Blend | 混合 |
+| Break | 中断 |
+| Build | 构建 |
 | Clear | 清除 |
 | Color | 颜色 |
 | Configuration | 配置 |
+| Convert | 转换 |
 | Copy | 复制 |
 | Cue | 提示 |
+| Display Element | 显示元素 |
 | Document | 文档 |
 | Duplicate | 创建副本 |
 | Duration | 持续时间 |
@@ -48,6 +53,7 @@
 | Map | 映射 |
 | Media | 视频 |
 | Media Bin | 视频库 |
+| Merge | 合并 |
 | Message | 消息 |
 | Migration | 迁移 |
 | New | 新建 |
@@ -60,9 +66,11 @@
 | Playlist | 播放列表 |
 | Preferences | 偏好设置 |
 | Presentation | 演示文稿 |
+| Preserve | 保留 |
 | Prop | 道具 |
 | Reflow | 重排 |
 | Remove | 移除 |
+| Restore | 恢复 |
 | Sample | 示例 |
 | Show | 显示 |
 | Size | 大小 |
