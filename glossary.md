@@ -30,12 +30,14 @@
 | Easy | 简易 |
 | Edge | 边缘 |
 | Element | 元素 |
+| Event | 事件 |
 | Filter | 过滤 |
 | Grid | 网格 |
 | Group | 分组 |
 | Guides | 参考线 |
 | Identify | 识别 |
 | Image | 图像 |
+| Inspector | 检查器 |
 | Intensity | 强度 |
 | Item | 项目 |
 | Layout | 布局 |
@@ -45,6 +47,7 @@
 | Lobby | 大堂 |
 | Map | 映射 |
 | Media | 媒体 |
+| Message | 消息 |
 | Migration | 迁移 |
 | New | 新建 |
 | Note | 注释 |
@@ -59,11 +62,12 @@
 | Reflow | 重排 |
 | Remove | 移除 |
 | Sample | 示例 |
-| Show | 演示 |
+| Show | 显示 |
 | Size | 大小 |
 | Slide | 幻灯片 |
 | Stage | 舞台 |
 | Text | 文本 |
-| Timer | 计时器 |
+| Timer | 定时器 |
 | Transition | 过渡 |
 | Verse | 经文 |
+| View | 视图 |
