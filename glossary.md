@@ -46,7 +46,8 @@
 | Live | 现场 |
 | Lobby | 大堂 |
 | Map | 映射 |
-| Media | 媒体 |
+| Media | 视频 |
+| Media Bin | 视频库 |
 | Message | 消息 |
 | Migration | 迁移 |
 | New | 新建 |
@@ -54,6 +55,7 @@
 | Object | 对象 |
 | Offset | 偏移 |
 | Outline View | 大纲视图 |
+| Pattern | 模式 |
 | Playback | 播放 |
 | Playlist | 播放列表 |
 | Preferences | 偏好设置 |
