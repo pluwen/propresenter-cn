@@ -1,7 +1,0 @@
-OUTPUTRECORDER=Output Recorder;
-TARGET=Target;
-CODEC=Codec;
-SIZE=Size;
-FPS=FPS;
-
-CODEC_MJPEG=M-JPEG;
