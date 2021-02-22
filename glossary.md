@@ -35,6 +35,7 @@
 | Convert | 转换 |
 | Copy | 复制 |
 | Corner Pinning | 边角定位 |
+| Create | 创建 |
 | Cue | 提示 |
 | Display Element | 显示元素 |
 | Document | 文档 |
@@ -61,7 +62,7 @@
 | Layout | 布局 |
 | Library | 资源库 |
 | License | 许可证 |
-| Live | 现场 |
+| Live | 直播 |
 | Lobby | 大堂 |
 | Looping Video | 循环视频 |
 | Map | 映射 |
@@ -79,7 +80,7 @@
 | Outline View | 大纲视图 |
 | Overrun | 超限 |
 | Pattern | 模式 |
-| Playback | 播放 |
+| Playback | 回放 |
 | Playlist | 播放列表 |
 | Preferences | 偏好设置 |
 | Presentation | 演示文稿 |
@@ -87,12 +88,17 @@
 | Preset | 预设 |
 | Prop | 道具 |
 | Publisher | 发布者 |
+| Reference | 参考 |
 | Reflow | 重排 |
 | Remove | 移除 |
 | Replace | 替换 |
+| Reset | 重置 |
+| Resize | 调整大小 |
 | Restore | 恢复 |
 | Sample | 示例 |
+| Scale | 缩放 |
 | Show | 显示 |
+| Side | 边 |
 | Size | 大小 |
 | Slide | 幻灯片 |
 | Slide Show | 幻灯片放映 |
@@ -103,3 +109,4 @@
 | Transition | 过渡 |
 | Verse | 经文 |
 | View | 视图 |
+| Zoom | 缩放 |
