@@ -1,4 +1,4 @@
-# ProPresenter i18N
+# ProPresenter 简体中文版
 ProPresenter 7 汉化包，支持 macOS 和 Windows。
 仅支持 ProPresenter 7.4 及更新的版本。
 
@@ -8,6 +8,7 @@ ProPresenter 7 汉化包，支持 macOS 和 Windows。
 - [ ] Windows（70%）
 
 ## 如何使用
+* 下载 ProPresenter 7：https://renewedvision.com/propresenter/
 * macOS：下载后解压，复制 zh_CN.lproj 文件夹到 ProPresenter 的 Resource 文件夹内即可
 * Windows：下载后解压，复制 zh_CN.lproj 文件夹到 ProPresenter 的 Resource 文件夹内即可
 
