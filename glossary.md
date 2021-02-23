@@ -86,6 +86,7 @@
 | Presentation | 演示文稿 |
 | Preserve | 保留 |
 | Preset | 预设 |
+| PreShow | 预演 |
 | Prop | 道具 |
 | Publisher | 发布者 |
 | Reference | 参考 |
