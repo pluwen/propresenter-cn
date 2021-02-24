@@ -10,6 +10,7 @@
 | 单词 | 翻译 |
 |--|--|
 | Action | 动作 |
+| Active | 活跃 |
 | All | 所有 |
 | Announcement | 公告 |
 | Arrange | 排列 |
@@ -19,6 +20,7 @@
 | Audience | 观众 |
 | Audio | 音频 |
 | Audio Track | 音轨 |
+| Auto Advance Time | 自动前进时间 |
 | Background Color | 背景色 |
 | Behavior | 行为 |
 | Blend | 混合 |
@@ -37,6 +39,7 @@
 | Corner Pinning | 边角定位 |
 | Create | 创建 |
 | Cue | 提示 |
+| Description | 简介 |
 | Display Element | 显示元素 |
 | Document | 文档 |
 | Duplicate | 创建副本 |
@@ -44,6 +47,7 @@
 | Easy | 简易 |
 | Edge | 边缘 |
 | Effect | 特效 |
+| Elapsed time | 已用时间 |
 | Element | 元素 |
 | Event | 事件 |
 | Feathering | 羽化 |
@@ -54,8 +58,10 @@
 | Group | 分组 |
 | Guideline | 参考线 |
 | Guides | 参考线 |
+| Hotkey | 快捷键 |
 | Identify | 识别 |
 | Image | 图像 |
+| Inactive | 闲置 |
 | Inspector | 检查器 |
 | Intensity | 强度 |
 | Item | 项目 |
@@ -87,6 +93,7 @@
 | Preserve | 保留 |
 | Preset | 预设 |
 | PreShow | 预演 |
+| Producer | 制作人 |
 | Prop | 道具 |
 | Publisher | 发布者 |
 | Reference | 参考 |
@@ -96,6 +103,7 @@
 | Reset | 重置 |
 | Resize | 调整大小 |
 | Restore | 恢复 |
+| Resume | 恢复 |
 | Sample | 示例 |
 | Scale | 缩放 |
 | Show | 显示 |
