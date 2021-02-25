@@ -46,6 +46,7 @@
 | Duration | 持续时间 |
 | Easy | 简易 |
 | Edge | 边缘 |
+| Edge Blend | 边缘混合 |
 | Effect | 特效 |
 | Elapsed time | 已用时间 |
 | Element | 元素 |
@@ -86,6 +87,7 @@
 | Outline View | 大纲视图 |
 | Overrun | 超限 |
 | Pattern | 模式 |
+| Placeholder | 预留位置 |
 | Playback | 回放 |
 | Playlist | 播放列表 |
 | Preferences | 偏好设置 |
