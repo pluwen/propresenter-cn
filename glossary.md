@@ -103,7 +103,7 @@
 | Producer | 制作人 |
 | Prop | 道具 |
 | Publisher | 发布者 |
-| Reference | 参考 |
+| Reference | 引用 |
 | Reflow | 重排 |
 | Remove | 移除 |
 | Renew | 续订 |
