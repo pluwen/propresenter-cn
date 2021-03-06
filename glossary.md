@@ -122,7 +122,7 @@
 | Stage | 舞台 |
 | Text | 文本 |
 | Text Ticker | 滚动文本 |
-| Timer | 定时器 |
+| Timer | 计时器 |
 | Transition | 过渡 |
 | Verse | 经文 |
 | View | 视图 |
