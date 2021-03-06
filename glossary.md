@@ -4,6 +4,7 @@
 | 单词 | 解释 |
 |--|--|
 | CCLI | Christian Copyright Licensing International 基督教版权许可国际组织 |
+| Planning Center | 一个品牌名称 |
 | SongSelect | SongSelect 是敬拜歌曲资源的权威来源 |
 
 ## 术语表
