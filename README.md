@@ -23,6 +23,9 @@
 * 进入 Localizations 文件夹
 * 按 Ctrl + V 粘贴 zh_CN.lproj 文件夹即可
 
+## 词汇表
+参见 [ProPresenter 词汇表](https://github.com/pluwen/propresenter-cn/blob/main/glossary.md)
+
 ## 如何贡献
 * 欢迎提 pr 或者 issue
 * 其他问题欢迎 DM 我的推特 ↓
