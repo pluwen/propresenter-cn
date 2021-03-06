@@ -19,7 +19,9 @@
 * 下载[汉化包](https://github.com/pluwen/propresenter-cn/archive/main.zip) 到电脑后，解压
 * 按 Ctrl+C 复制 zh_CN.lproj 文件夹
 * 进入 ProPresenter 安装文件夹
-* 进入 Resource 文件夹，按 Ctrl + V 粘贴 zh_CN.lproj 文件夹即可
+* 进入 Resource 文件夹
+* 进入 Localizations 文件夹
+* 按 Ctrl + V 粘贴 zh_CN.lproj 文件夹即可
 
 ## 如何贡献
 * 欢迎提 pr 或者 issue
