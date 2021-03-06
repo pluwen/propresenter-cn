@@ -60,6 +60,7 @@
 | Group | 分组 |
 | Guideline | 参考线 |
 | Guides | 参考线 |
+| Header | 标题 |
 | Hotkey | 快捷键 |
 | Identify | 识别 |
 | Image | 图像 |
@@ -68,10 +69,12 @@
 | Intensity | 强度 |
 | Item | 项目 |
 | Layout | 布局 |
+| Level | 等级 |
 | Library | 资源库 |
 | License | 许可证 |
 | Live | 直播 |
 | Lobby | 大堂 |
+| Looks | 外观 |
 | Looping Video | 循环视频 |
 | Map | 映射 |
 | Mask | 遮罩 |
@@ -107,6 +110,7 @@
 | Resize | 调整大小 |
 | Restore | 恢复 |
 | Resume | 恢复 |
+| Rewind | 倒带 |
 | Sample | 示例 |
 | Scale | 缩放 |
 | Show | 显示 |
