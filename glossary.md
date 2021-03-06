@@ -89,7 +89,7 @@
 | Object | 对象 |
 | Offset | 偏移 |
 | Outline View | 大纲视图 |
-| Overrun | 超限 |
+| Overrun | 超时 |
 | Pattern | 模式 |
 | Placeholder | 预留位置 |
 | Playback | 回放 |
@@ -105,6 +105,7 @@
 | Reference | 参考 |
 | Reflow | 重排 |
 | Remove | 移除 |
+| Renew | 续订 |
 | Replace | 替换 |
 | Reset | 重置 |
 | Resize | 调整大小 |
