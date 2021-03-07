@@ -29,6 +29,7 @@
 | Bound | 边界 |
 | Break | 中断 |
 | Build | 构建 |
+| Bundle | 包文件 |
 | Capture | 采集 |
 | Change | 修改 |
 | Character Spacing | 字距 |
@@ -117,7 +118,7 @@
 | Scale | 缩放 |
 | Show | 显示 |
 | Side | 边 |
-| Size | 大小 |
+| Size | 尺寸/大小 |
 | Slide | 幻灯片 |
 | Slide Show | 幻灯片放映 |
 | Stage | 舞台 |
