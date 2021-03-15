@@ -105,7 +105,7 @@
 | Prop | 道具 |
 | Publisher | 发布者 |
 | Reference | 引用 |
-| Reflow | 重排 |
+| Reflow | 大纲 |
 | Remove | 移除 |
 | Renew | 续订 |
 | Replace | 替换 |
