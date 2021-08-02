@@ -14,9 +14,10 @@
 | Action | 动作 |
 | Active | 活跃 |
 | All | 所有 |
+| Alternate | 备用 |
 | Announcement | 公告 |
 | Arrange | 排列 |
-| Arrangement | 编排 |
+| Arrangement | 部署 |
 | Aspect Ratio | 宽高比 |
 | Assignment | 分配 |
 | Audience | 观众 |
@@ -26,12 +27,13 @@
 | Background Color | 背景色 |
 | Behavior | 行为 |
 | Blend | 混合 |
+| Bold | 加粗 |
 | Bound | 边界 |
 | Break | 中断 |
 | Build | 构建 |
-| Bundle | 包文件 |
+| Bundle | 包 |
 | Capture | 采集 |
-| Change | 修改 |
+| Change | 更改 |
 | Character Spacing | 字距 |
 | Clear | 清除 |
 | Color | 颜色 |
@@ -46,7 +48,7 @@
 | Display Element | 显示元素 |
 | Document | 文档 |
 | Duplicate | 创建副本 |
-| Duration | 持续时间 |
+| Duration | 时长 |
 | Easy | 简易 |
 | Edge | 边缘 |
 | Edge Blend | 边缘混合 |
@@ -56,10 +58,11 @@
 | Event | 事件 |
 | Feathering | 羽化 |
 | Fill | 填充 |
-| Filter | 过滤 |
-| Go to | 跳转 |
+| Filter | 筛选条件 |
+| Fit Canvas | 适应画布 |
+| Go to | 前往 |
 | Grid | 网格 |
-| Group | 分组 |
+| Group | 组合 |
 | Guideline | 参考线 |
 | Guides | 参考线 |
 | Header | 标题 |
@@ -74,14 +77,17 @@
 | Level | 等级 |
 | Library | 资源库 |
 | License | 许可证 |
+| Line | 线条 |
+| Link | 关联 |
 | Live | 直播 |
 | Lobby | 大堂 |
-| Looks | 外观 |
+| Log out | 退出 |
+| Look | 视图 |
 | Looping Video | 循环视频 |
 | Map | 映射 |
 | Mask | 遮罩 |
-| Media | 视频 |
-| Media Bin | 视频库 |
+| Media | 媒体 |
+| Media Bin | 媒体箱 |
 | Merge | 合并 |
 | Message | 消息 |
 | Migration | 迁移 |
@@ -92,9 +98,10 @@
 | Offset | 偏移 |
 | Outline View | 大纲视图 |
 | Overrun | 超时 |
-| Pattern | 模式 |
+| Palette | 调整器 |
+| Pattern | 图案 |
 | Placeholder | 预留位置 |
-| Playback | 回放 |
+| Playback | 播放 |
 | Playlist | 播放列表 |
 | Preferences | 偏好设置 |
 | Presentation | 演示文稿 |
@@ -102,30 +109,31 @@
 | Preset | 预设 |
 | PreShow | 预演 |
 | Producer | 制作人 |
-| Prop | 道具 |
+| Prop | 属性 |
 | Publisher | 发布者 |
 | Reference | 引用 |
-| Reflow | 大纲 |
+| Reflow | 重排 |
 | Remove | 移除 |
 | Renew | 续订 |
 | Replace | 替换 |
 | Reset | 重置 |
 | Resize | 调整大小 |
 | Restore | 恢复 |
-| Resume | 恢复 |
+| Resume | 继续 |
 | Rewind | 倒带 |
 | Sample | 示例 |
 | Scale | 缩放 |
 | Show | 显示 |
 | Side | 边 |
-| Size | 尺寸/大小 |
+| Size | 尺寸 |
 | Slide | 幻灯片 |
 | Slide Show | 幻灯片放映 |
 | Stage | 舞台 |
 | Text | 文本 |
-| Text Ticker | 滚动文本 |
+| Text Ticker | 文本播报 |
 | Timer | 计时器 |
-| Transition | 过渡 |
+| Transformation | 变形 |
+| Transition | 转场 |
 | Verse | 经文 |
 | View | 视图 |
 | Zoom | 缩放 |
