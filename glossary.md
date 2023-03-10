@@ -13,7 +13,7 @@
 | Account | 帐户 |
 | Action | 动作 |
 | Active | 活跃 |
-| All | 所有 |
+| All | 全部 |
 | Alternate | 备用 |
 | Announcement | 公告 |
 | Arrange | 排列 |
